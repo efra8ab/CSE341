@@ -3,3 +3,5 @@ node_modules
 .env
 
 PROJECT_STRUCTURE.md
+.DS_Store
+W01/.DS_Store
